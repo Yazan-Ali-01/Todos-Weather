@@ -3,8 +3,7 @@ import React from 'react';
 import { TodoList } from '@features/TodoList';
 import { Navigate } from 'react-router-dom';
 import { Typography } from '@mui/material';
-import Weather from '@features/Weather/components/Weather';
-// import { WeatherDisplay } from 'features/Weather';
+import { Weather } from '@features/Weather';
 
 const Dashboard = () => {
   return (

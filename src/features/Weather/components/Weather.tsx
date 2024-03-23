@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import WeatherDisplay from './WeatherDisplay';
-import { useWeather } from '../hooks/useWeather';
+import WeatherDisplay from '@features/Weather/components/WeatherDisplay';
+import { useWeather } from '@features/Weather/hooks/useWeather';
 import ReusableForm from '@shared/forms/ReusableForm';
 
 const Weather: React.FC = () => {
