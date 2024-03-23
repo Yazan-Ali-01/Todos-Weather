@@ -12,7 +12,6 @@
 
 ## Introduction <a name="introduction"></a>
 
-<p align="center"> <img src="LINK_TO_YOUR_APP_ICON" alt="App Icon"/> </p>
 This Personal Dashboard application is a React-based project designed to enhance productivity by providing weather updates and a todo list management system. It is built using the TypeScript language and follows the Bulletproof React architecture for a scalable, maintainable codebase. With Tailwind CSS, the application sports a modern, responsive design that adapts seamlessly to both desktop and mobile devices.
 
 ## Here's Why <a name="heres-why"></a>
@@ -21,10 +20,10 @@ The inspiration behind this Personal Dashboard was to create a simple, yet power
 
 ## Demo <a name="demo"></a>
 
-Check out the live demo of the application [here](YOUR_DEPLOYED_APP_URL).
+Check out the live demo of the application [here](https://todos-weather.vercel.app/dashboard).
 <br><br>
 
-<p align="center"> <img src="DEMO_SCREENSHOT_OR_GIF_LINK" alt="Demo Screenshot"/> </p>
+<p align="center"> <img src="https://ibb.co/qgGXYgm" alt="Demo Screenshot"/></p>
 
 ## Features <a name="features"></a>
 
