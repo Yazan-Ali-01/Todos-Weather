@@ -14,7 +14,7 @@ module.exports = {
       '@interfaces': path.resolve(__dirname, 'src/types/'),
       '@routes': path.resolve(__dirname, 'src/routes/'),
       '@features': path.resolve(__dirname, 'src/features/'),
-      '@shared': path.resolve(__dirname, 'src/shared/'),
+      '@shared': path.resolve(__dirname, 'src/shared/')
     }
   }
   // Add TypeScript plugin configuration here if needed

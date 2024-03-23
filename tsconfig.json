@@ -1,11 +1,7 @@
 {
   "compilerOptions": {
     "target": "es5",
-    "lib": [
-      "dom",
-      "dom.iterable",
-      "esnext"
-    ],
+    "lib": ["dom", "dom.iterable", "esnext"],
     "allowJs": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -20,45 +16,19 @@
     "jsx": "react-jsx",
     "baseUrl": "./src",
     "paths": {
-      "@assets/*": [
-        "assets/*"
-      ],
-      "@components/*": [
-        "components/*"
-      ],
-      "@utils/*": [
-        "utils/*"
-      ],
-      "@hooks/*": [
-        "hooks/*"
-      ],
-      "@services/*": [
-        "services/*"
-      ],
-      "@contexts/*": [
-        "contexts/*"
-      ],
-      "@features/*": [
-        "features/*"
-      ],
-      "@interfaces/*": [
-        "types/*"
-      ],
-      "@routes/*": [
-        "routes/*"
-      ],
-      "@styles/*": [
-        "styles/*"
-      ],
-      "@store/*": [
-        "store/*"
-      ],
-      "@shared/*": [
-        "shared/*"
-      ],
+      "@assets/*": ["assets/*"],
+      "@components/*": ["components/*"],
+      "@utils/*": ["utils/*"],
+      "@hooks/*": ["hooks/*"],
+      "@services/*": ["services/*"],
+      "@contexts/*": ["contexts/*"],
+      "@features/*": ["features/*"],
+      "@interfaces/*": ["types/*"],
+      "@routes/*": ["routes/*"],
+      "@styles/*": ["styles/*"],
+      "@store/*": ["store/*"],
+      "@shared/*": ["shared/*"]
     }
   },
-  "include": [
-    "src"
-  ]
+  "include": ["src"]
 }
