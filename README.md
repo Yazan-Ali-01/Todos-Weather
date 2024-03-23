@@ -23,7 +23,7 @@ The inspiration behind this Personal Dashboard was to create a simple, yet power
 Check out the live demo of the application [here](https://todos-weather.vercel.app/dashboard).
 <br><br>
 
-<p align="center"> <img src="https://ibb.co/qgGXYgm" alt="Demo Screenshot"/></p>
+<p align="center"> <img src="https://i.ibb.co/C9dNK9V/chrome-0ec7-Cj-VSVt.png" alt="Demo Screenshot"/></p>
 
 ## Features <a name="features"></a>
 
